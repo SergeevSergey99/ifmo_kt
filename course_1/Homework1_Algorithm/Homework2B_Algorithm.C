@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 typedef struct Node_tag {
 	int value;
@@ -47,4 +47,4 @@ int main (void){
 		fclose(pTextFile);
 	}
 	return 1;
-}*/
+}
