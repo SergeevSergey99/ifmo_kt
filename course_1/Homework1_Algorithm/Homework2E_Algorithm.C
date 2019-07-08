@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 char stack[10000];
 long n = 0;
@@ -33,4 +33,4 @@ int main() {
 	fclose(pTextFile);
 
 	return 1;
-}*/
+}
