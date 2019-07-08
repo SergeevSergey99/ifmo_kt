@@ -1,6 +1,3 @@
-﻿// Homework1_Algorithm.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
-/*
 #include <stdio.h>
 
 #define STACK_MAX_SIZE 1000000
@@ -46,5 +43,3 @@ int main() {
 	}
 	return 1;
 }
-
-*/
