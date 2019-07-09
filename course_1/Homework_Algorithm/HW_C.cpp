@@ -32,6 +32,9 @@ void findk(int l, int r) {
 }
 
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+
     fin >> n >> k >> A >> B >> C >> a[0] >> a[1];
     for(i = 2; i < n; i++) {
         a[i] = A*a[i-2] + B*a[i-1] + C;
